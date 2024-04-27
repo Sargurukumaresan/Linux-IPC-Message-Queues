@@ -20,7 +20,7 @@ Execute the C Program for the desired output.
 
 # PROGRAM:
 #### DEVELOPED BY : SARGURU K
-#### REG NO : 212223230134
+#### REG NO : 212222230134
 
 ## C program that receives a message from message queue and display them
 writer .c
